@@ -11,6 +11,7 @@ A collection of Simple C Programs.
     3. [Add Two Integers](./basic/add_two_integer.c)
     4. [Find ASCII Value of a Character](./basic/ascii_value.c)
     5. [Find Simple Interest](./basic/simple_interest.c)   
+    6. [Area And Circumference](./basic/AreaAndCircumferenceCircle.c)
    
 - ## Decision Making 
     1. [Even or Odd](./Decision%20Making/oddEven.c)
