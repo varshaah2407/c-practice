@@ -26,7 +26,15 @@ A collection of Simple C Programs.
 
 - ## Pyramids and Patterns
     1. [Half Pyramid](./Pyramids%20and%20Patterns/halfPyramid.c)
-  
-- ## Others 
+---  
 
-# Contributing
+# How to Contribute ?
+
+- Fork this repository by clicking on the fork button on the top of this page.
+- Now clone the forked repository to your machine.
+- Now create a branch using the git checkout command.
+- Make necessary changes and commit those changes.
+- Push changes to GitHub.
+- Now submit the pull request.
+
+For mode details please visit [First-Contributions](https://github.com/firstcontributions/first-contributions)
