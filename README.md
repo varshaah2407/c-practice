@@ -27,9 +27,22 @@ A collection of Simple C Programs.
     1. [Factorial](./loop/factorial.c)
     2. [Multiplication Table](./loop/multiplicationTable.c)
     3. [Check Prime Number](./loop/prime.c)
+    4. [Display Factors of a Number](./loop/factors.c)
+    5. [Display Characters from A to Z](./loop/AtoZ.c)
+    6. [Find LCM of two Numbers](./loop/LCM.c)
+
+- ## Array
+    1. [Calculate Average Using Arrays](./array/averageUsingArrays.c)
+  
+- ## String
+    1. [Write String using printf](./string/writeStringUsingPrintf.c)
+    2. [Write String using puts](./string/writeStringUsingPuts.c)
+    3. [Find the Length of a String](./string/lengthofString.c)
+    4. [Concatenate Two Strings](./string/concatenateString.c)
 
 - ## Pyramids and Patterns
     1. [Half Pyramid](./Pyramids%20and%20Patterns/halfPyramid.c)
+    2. [Half Pyramid Numbers](./Pyramids%20and%20Patterns/halfPyramidNumbers.c)
 
 # How to Contribute ?
 
