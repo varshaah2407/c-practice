@@ -1,3 +1,7 @@
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/7ORP3DO/c-practice?label=Repo%20Size&style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/7ORP3DO/c-practice?style=flat)
+![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/7ORP3DO/c-practice?type=file)
 # C Practice
 A collection of Simple C Programs.
 
