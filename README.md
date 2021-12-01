@@ -26,7 +26,6 @@ A collection of Simple C Programs.
 
 - ## Pyramids and Patterns
     1. [Half Pyramid](./Pyramids%20and%20Patterns/halfPyramid.c)
----  
 
 # How to Contribute ?
 
