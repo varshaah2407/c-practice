@@ -1,7 +1,3 @@
-/*
-    A Simple C Program to Print Half Pyramid of * 
-*/
-
 #include <stdio.h>
 #include <conio.h>
 
@@ -25,3 +21,22 @@ int main()
     getch();
     return 0;
 }
+
+
+/* OUTPUT:
+
+Enter the number of rows: 10
+
+
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+* * * * * * *
+* * * * * * * *
+* * * * * * * * *
+* * * * * * * * * *
+
+*/
