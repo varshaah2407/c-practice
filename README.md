@@ -23,6 +23,7 @@ A collection of Simple C Programs.
     2. [Vowel or Consonant](./Decision%20Making/vowel_or_consonant.c)
     3. [Check Leap Year](./loop/leapYear.c)
     4. [Character is an Alphabet or not](./Decision%20Making/check_alphabet.c)
+    5. [Calculate Body Mass Index (BMI)](Decision%20Making/bmi.c)
    
 - ## Loop 
     1. [Factorial](./loop/factorial.c)
