@@ -33,6 +33,7 @@ A collection of Simple C Programs.
     5. [Display Characters from A to Z](./loop/AtoZ.c)
     6. [Find LCM of two Numbers](./loop/LCM.c)
     7. [Sum on n Natural Numbers](./loop/sumOfNaturalNumbers.c)
+    8. [Power of a Number](./loop/powerOfNumber.c)
  
 - ## String
     1. [Write String using printf](./string/writeStringUsingPrintf.c)
