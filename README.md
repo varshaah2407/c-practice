@@ -46,6 +46,8 @@ A collection of Simple C Programs.
 
 - ## Functions
     1. [Prime Number between two interval](./Functions/primeBetweenTwoNumber.c)
+    2. [Check Armstrong Number](./Functions/armstrongNumber.c)
+    3. [Calculate power using recursion](./Functions/powerUsingRecursion.c)
 
 - ## Pyramids and Patterns
     1. [Square Star Pattern](./Pyramids%20and%20Patterns/SquareStar.c)

@@ -1,6 +1,6 @@
 /* 
     A simple c program to add two Integers value
-    author: Prateek Singh
+    
 */
 
 #include <stdio.h>

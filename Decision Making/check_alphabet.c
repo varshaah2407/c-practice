@@ -1,6 +1,6 @@
 /* 
     A simple c program to check input value is alphabet or not.
-    author: Prateek Singh
+    
 */
 
 #include <stdio.h>

@@ -1,6 +1,6 @@
 /* 
     A simple c program to find ASCII value of a Character
-    author: Prateek Singh
+    
 */
 
 #include <stdio.h>

@@ -1,6 +1,6 @@
 /* 
     A simple c program to check if an integer is even or odd.
-    author: Prateek Singh
+    
 */
 
 #include <stdio.h>

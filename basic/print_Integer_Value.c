@@ -1,6 +1,6 @@
 /* 
     A simple c program to Print an Integer value entered by User 
-    author: Prateek Singh
+    
 */
 
 #include <stdio.h>
