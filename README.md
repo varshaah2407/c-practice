@@ -1,12 +1,12 @@
 
 <div align="center">
     
-![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-    
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/7ORP3DO/c-practice?label=Repo%20Size&style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/7ORP3DO/c-practice?style=flat)
-![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/7ORP3DO/c-practice?type=file)
-    
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"/> </br>
+
+<img src="https://img.shields.io/github/languages/code-size/7ORP3DO/c-practice?label=Repo%20Size&style=flat" alt="GitHub code size in bytes"/>
+<img src="https://img.shields.io/github/last-commit/7ORP3DO/c-practice?style=flat" alt="GitHub last commit"/>
+<img src="https://img.shields.io/github/directory-file-count/7ORP3DO/c-practice?type=file" alt="GitHub repo file count"/>
+
 </div>
     
 # C Practice
@@ -74,3 +74,10 @@ A collection of Simple C Programs.
 - Now submit the pull request.
 
 For mode details please visit [First-Contributions](https://github.com/firstcontributions/first-contributions)
+
+<!--![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+    
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/7ORP3DO/c-practice?label=Repo%20Size&style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/7ORP3DO/c-practice?style=flat)
+![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/7ORP3DO/c-practice?type=file)
+ -->   
