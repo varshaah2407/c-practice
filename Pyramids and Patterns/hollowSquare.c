@@ -36,3 +36,21 @@ int main()
     return 0;
 
 }
+
+/* OUTPUT:
+
+Enter the number of rows: 10
+
+* * * * * * * * * *
+*                 *
+*                 *
+*                 *
+*                 *
+*                 *
+*                 *
+*                 *
+*                 *
+* * * * * * * * * *
+
+
+ */
